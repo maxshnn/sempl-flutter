@@ -17,7 +17,7 @@ git clone https://github.com/maxshnn/sempl-flutter.git
 or
 
 ```bash
-git@github.com:maxshnn/currency-conversion.git
+git@github.com:maxshnn/sempl-flutter.git
 
 ```
 
